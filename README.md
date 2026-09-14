@@ -1,6 +1,6 @@
 # Python Coding Tasks 🐍
 
-This repository contains my daily Python tasks, coding challenges, logic-building exercises, and mini-projects.
+This repository contains my daily Python tasks, coding challenges, logic-building exercises.
 
 ---
 
