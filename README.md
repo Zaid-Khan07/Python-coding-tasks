@@ -1,4 +1,4 @@
-# Python Coding Tasks 🐍
+# Python & Library Coding Tasks 🐍
 
 This repository contains my daily Python tasks, coding challenges, logic-building exercises.
 
